@@ -5,7 +5,7 @@
   "name": "Synergy Property",
   "short_name": "SynergyPro",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "index.html",
   "icons": [
     {
       "src": "icons/icon-72x72.png",
